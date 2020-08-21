@@ -2,29 +2,29 @@ body {
   box-sizing: border-box;
 }
 
-.navigation {
+/* .navigation {
   margin-left: 25em;
   margin-top: 2em;
-}
-.icons {
+} */
+/* .icons {
   margin-top: 1em;
   margin-left: 29em;
-}
+} */
 .image {
   width: 2.2em;
   height: 2em;
   margin: 0.5em;
 }
 .card-image {
+  filter: blur(1px);
   height: 550px;
 }
-.heading {
-  margin-top: 3em;
-  margin-left: 22em;
+/* .heading {
   width: 50%;
-}
+} */
 .sub-heading {
-  margin-top: 2em;
+  width: 50%;
+  margin: 3em 0;
   line-height: 1.8;
 }
 .btn-add {
@@ -40,28 +40,29 @@ body {
   width: 100%;
 }
 
-.card-detail {
+/* .card-detail {
   padding: 3em 2em;
   margin-top: 4em;
   border: none;
-}
+} */
 
 /* Detail section */
 .card-tour {
   background-color: #000;
   color: #fff;
-  padding: 8em 2em;
 }
 .discover-image {
   background-image: url("images/image-1.jpg");
   width: 100%;
   height: 400px;
+  background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
 }
-.card-padding {
+
+/* .card-padding {
   padding: 0;
-}
+} */
 /* Price section */
 .price-img {
   width: 100%;
