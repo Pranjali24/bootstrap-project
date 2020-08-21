@@ -1,15 +1,6 @@
 body {
   box-sizing: border-box;
 }
-
-/* .navigation {
-  margin-left: 25em;
-  margin-top: 2em;
-} */
-/* .icons {
-  margin-top: 1em;
-  margin-left: 29em;
-} */
 .image {
   width: 2.2em;
   height: 2em;
@@ -19,12 +10,8 @@ body {
   filter: blur(1px);
   height: 550px;
 }
-/* .heading {
-  width: 50%;
-} */
 .sub-heading {
   width: 50%;
-  margin: 3em 0;
   line-height: 1.8;
 }
 .btn-add {
@@ -40,12 +27,6 @@ body {
   width: 100%;
 }
 
-/* .card-detail {
-  padding: 3em 2em;
-  margin-top: 4em;
-  border: none;
-} */
-
 /* Detail section */
 .card-tour {
   background-color: #000;
@@ -59,11 +40,6 @@ body {
   background-size: cover;
   background-repeat: no-repeat;
 }
-
-/* .card-padding {
-  padding: 0;
-} */
-/* Price section */
 .price-img {
   width: 100%;
   height: 200px;
