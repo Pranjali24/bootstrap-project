@@ -50,7 +50,9 @@ body {
 .card-header {
   background-color: transparent;
 }
-
+.carousel-img {
+  height: 400px;
+}
 /* booking page */
 .nostyle {
   list-style: none;
